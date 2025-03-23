@@ -42,7 +42,7 @@ Moreover, I needed to use the hour of purchase for my analysis, but since it was
 *	Customers with high income level are more interested in discounts than those of middle income.
 *	Purchase category affects shipping preference because a large number of customers that purchase home appliances and those that purchase Jewelry & Accessories prefer to use the Standard shipping.
 *	Customers that purchase Sports & Outdoors has no shipping preference at all.
-*	The peak shopping days of the week are **Tuesdays and Sundays** with a total of 159 & 156 customers per day and a total sale of **$44,241 & $41,859** respectively.
+*	The peak shopping days of the week are **Tuesdays and Thursdays** with a total sale of **$44,241 & $42,329** respectively.
 *	The peak shopping hour is at **2:00pm** with about **88** customers making their purchase at that time and a total of **$25,440** sales.
 *	Customers with high social media influence **purchase more** products with a purchase sum of $76,193, while those that has no influence on social media has the **least purchase** amount of $64,911.
 *	Product with high rating of 5 has the highest return rate of over 210 returns, this suggests that customer expectations may not be aligning with reality for highly rated products.
